@@ -3,6 +3,7 @@
 ## Table of Contents
 * [Description](#description)
 * [Usage](#usage)
+* [Screenshot](#screenshot)
 * [Contributor](#contributor)
 * [Questions](#questions)
 
@@ -14,6 +15,9 @@ This is a simple calendar application that allows a user to save events for each
 - The top of the page displays the current date and time.
 - Each time block is color coded to represent the past(grey), present(red), future(green) hours in the workday.
 - For each time block users have the ability to input and save their schedule. Once it is saved, it will store in local storage.
+
+## Screenshot
+![](assets/img/workdayscheduler%20sc.jpg)
 
 ## Contributor
 Valeria Lopez - https://github.com/valopezs/Work-Day-Scheduler
