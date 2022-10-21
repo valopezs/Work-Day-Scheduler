@@ -1,5 +1,5 @@
 // display and update time element in header
-var todayDate = moment().format('dddd, MMMM Do YYYY, h:mm.ss');
+var todayDate = moment().format('dddd, MMMM Do YYYY, h:mm');
 $("#currentDay").html(todayDate);
 
 $(document).ready(function () {
